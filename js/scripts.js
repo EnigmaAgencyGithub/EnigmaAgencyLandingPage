@@ -64,7 +64,7 @@ window.addEventListener('load', () => {
 
 var isLocalhost = window.location.href.includes('localhost');
 var isDevelopment = window.location.href.includes('ianjosephjones');
-var isProduction = window.location.href.includes('www.enigmaagency.co');
+var isProduction = window.location.href.includes('enigmaagency.co');
 
 var contactUsUrl = '';
 if (isLocalhost) {
